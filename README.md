@@ -9,8 +9,12 @@
 - I carried out a lot of experiments which has been mentioned in [Report.pdf](https://github.com/deepikakanade/Kaggle-Project-PUBG-Finish-Placement-Prediction/blob/master/Report.pdf) file. 
 
 The training and testing data have been handled seperately in the following way:
-![model-1](./images/TrainData.png)
-![model-1](./images/TestData.png)
+
+Train Data            |  Test Data
+:-------------------------:|:-------------------------:
+![model-1](./images/TrainData.png)  |  ![model-1](./images/TestData.png)
+
 
 The flow chart for final algorithm has been mentioned below:
+
 ![model-1](./images/FinalAlgorithm.png)
